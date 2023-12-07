@@ -1,0 +1,14 @@
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.exe
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.deps.json
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.runtimeconfig.json
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.dll
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\bin\Debug\net8.0\trilha-net-poo-desafio.pdb
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.AssemblyInfoInputs.cache
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.AssemblyInfo.cs
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.csproj.CoreCompileInputs.cache
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.dll
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\refint\trilha-net-poo-desafio.dll
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.pdb
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\trilha-net-poo-desafio.genruntimeconfig.cache
+C:\Users\matie\Desktop\DIO\trilha-net-poo-desafio\obj\Debug\net8.0\ref\trilha-net-poo-desafio.dll
